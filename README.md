@@ -6,8 +6,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sorude26&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorude26&theme=monokai)
 
-### Hi there 👋
-
 <!--
 **sorude26/sorude26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
